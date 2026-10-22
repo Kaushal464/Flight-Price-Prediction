@@ -1,5 +1,5 @@
 # **Flight Price Prediction Using Machine Learning**
-###Project Overview
+### Project Overview
 This project explores flight-ticket pricing data and builds machine-learning regression models to estimate flight prices from itinerary and booking-related features. The work is documented in the Flight_Prediction.ipynb Jupyter Notebook.
 
 The notebook covers data inspection, exploratory data analysis (EDA), categorical encoding, feature scaling, model training, evaluation, and an example prediction for a new ticket.
